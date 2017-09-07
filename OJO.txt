@@ -1,0 +1,4 @@
+Modificar conexion.php
+Modificar planilla.php
+
+le agregué esto
